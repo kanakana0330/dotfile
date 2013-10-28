@@ -10,3 +10,10 @@ Gemfile.lock
 *.DS_Store
 .sass-cache/*
 *.orig
+project.xcworkspace
+xcuserdata
+*.pbxuser
+*.smbdelete*
+*._*
+.localized
+node_modules
