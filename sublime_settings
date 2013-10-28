@@ -1,0 +1,19 @@
+{
+  "close_windows_when_empty": true,
+  "color_scheme": "Packages/Color Scheme - Default/Dawn.tmTheme",
+  "draw_white_space": "all",
+  "fade_fold_buttons": false,
+  "font_size": 12,
+  "highlight_line": true,
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  "line_padding_top": 3,
+  "margin": 2,
+  "open_files_in_new_window": false,
+  "show_full_path": true,
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true,
+  "word_wrap": true
+}
